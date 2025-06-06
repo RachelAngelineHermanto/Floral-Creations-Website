@@ -7,31 +7,39 @@
   }
 }
 .hgreen-line {
-  width: 90rem;
-  margin: 0 !important;
   position: absolute;
+  width: 100%;
   top: 0;
-  left: calc(50% - 719.5px);
-  background-color: var(--Cream);
+  background-color: var(--Cream); 
+  height: 1.875rem;
   overflow: hidden;
-  flex-shrink: 0;
-  z-index: 0;
-}
-.green-bar,
-.we-offer-same-day {
-  flex-shrink: 0;
-  position: relative;
-}
-.we-offer-same-day {
-  letter-spacing: 0.8px;
-  font-weight: 600;
-  background:
-    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    var(--color-darkslategray-200);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
   z-index: 1;
 }
+.green-bar {
+  position: relative;
+  width: 100%;
+  height: 1.875rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--Cream);
+  font-size: 0.75rem;
+  letter-spacing: 0.8px;
+  font-weight: 600;
+  color: black;
+}
+.we-offer-same-day {
+  position: absolute;
+  top: calc(50% - 47px);
+  left: calc(50% - 165px);
+  font-size: 0.75rem;
+  letter-spacing: 0.8px;
+  font-weight: 600;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #2a3626;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .green-bar {
   width: 88.688rem;
   height: 1.875rem;
@@ -45,13 +53,12 @@
   gap: 0;
 }
 .icons8-menu-50-2 {
+  position: absolute;
+  top: 3.438rem;
+  left: 1.75rem;
   width: 2rem;
-  position: relative;
   height: 2rem;
-  background-image: url(./public/icons8menu50-2@3x.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: top;
+  object-fit: cover;
 }
 .icons8-menu-50-2-wrapper {
   display: flex;
@@ -70,26 +77,30 @@
 }
 .floral-creations,
 .of-tullamarine {
-  margin: 0;
   align-self: stretch;
   position: relative;
-  font-size: inherit;
+  color: white;
 }
+
 .floral-creations {
   font-weight: 300;
-  font-family: inherit;
 }
+
 .of-tullamarine {
   letter-spacing: 0.5px;
-  font-weight: 400;
   font-family: var(--font-italianno);
 }
-.floral-info {
+.floral-creations-parent {
+  position: absolute;
+  top: 2.938rem;
+  left: calc(50% - 155px);
   width: 19.313rem;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
   justify-content: flex-start;
+  font-size: var(--font-size-24);
+  font-family: var(--font-perpetua-titling-mt);
 }
 .search,
 .vector-icon {
@@ -118,6 +129,18 @@
   width: 1.5rem;
   position: relative;
   height: 1.5rem;
+}
+.header-search-icon-parent {
+  position: absolute;
+  top: calc(50% - 1px);
+  left: calc(50% + 428px);
+  width: 11.5rem;
+  height: 2rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
 }
 .header-search-icon-wrapper,
 .search-container {
@@ -184,7 +207,20 @@
   align-items: flex-start;
   justify-content: center;
 }
-.header,
+.header {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #2a3626;
+  height: 6.875rem;
+  overflow: hidden;
+  font-size: 1rem;
+  color: var(--Miscellaneous-Floating-Tab-Pill-Fill);
+  font-family: var(--font-montserrat);
+  z-index: 99;
+}
 .header-actions,
 .menu {
   display: flex;
