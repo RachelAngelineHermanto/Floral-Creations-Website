@@ -1,0 +1,416 @@
+.image-29-icon1 {
+  position: absolute;
+  top: -0.812rem;
+  left: -0.25rem;
+  width: 91.25rem;
+  height: 65.938rem;
+  object-fit: cover;
+}
+.shopping-cart-filled-1140px-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90rem;
+  height: 64rem;
+}
+.wrapper10 {
+  position: absolute;
+  top: 7.563rem;
+  right: 0;
+  width: 5.563rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-8);
+  box-sizing: border-box;
+}
+.title {
+  flex: 1;
+  position: relative;
+  line-height: 140%;
+  text-transform: capitalize;
+}
+.title-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-8) var(--padding-8) var(--padding-8) 0;
+}
+.size1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 180%;
+  text-transform: capitalize;
+}
+.vector-icon80 {
+  position: absolute;
+  height: 8.33%;
+  width: 50%;
+  top: 45.83%;
+  right: 25%;
+  bottom: 45.83%;
+  left: 25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.minimize2 {
+  width: 1.5rem;
+  position: relative;
+  height: 1.5rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.div9 {
+  position: relative;
+  line-height: 180%;
+  text-transform: capitalize;
+}
+.vector-icon81 {
+  position: absolute;
+  height: 58.33%;
+  width: 58.33%;
+  top: 20.83%;
+  right: 20.83%;
+  bottom: 20.83%;
+  left: 20.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.quantity2 {
+  width: 5rem;
+  background-color: var(--primary-primary50);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-8);
+  text-align: center;
+  font-size: var(--font-size-20);
+  color: var(--primary-primary-700);
+}
+.frame-parent17,
+.size-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8);
+}
+.size-parent {
+  align-self: stretch;
+  height: 6.75rem;
+  color: var(--neutral-gray404040);
+}
+.frame-parent17 {
+  position: absolute;
+  width: calc(100% - 232px);
+  top: 0.063rem;
+  right: 5.625rem;
+  left: 8.875rem;
+  padding: 0 0 0 var(--padding-8);
+  box-sizing: border-box;
+}
+.shopping-cart-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 8.875rem;
+  height: 10.188rem;
+  object-fit: cover;
+}
+.close3 {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.lable18 {
+  flex: 1;
+  position: relative;
+  line-height: 180%;
+  text-transform: capitalize;
+}
+.chips-component-25,
+.lable-wrapper16 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.lable-wrapper16 {
+  flex: 1;
+}
+.chips-component-25 {
+  position: absolute;
+  top: 0.5rem;
+  left: 5.875rem;
+  background-color: var(--Miscellaneous-Floating-Tab-Pill-Fill);
+  width: 2.5rem;
+  height: 2rem;
+  padding: 0 var(--padding-8);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-14);
+}
+.shopping-cart {
+  position: absolute;
+  top: 6.25rem;
+  left: calc(50% - 300px);
+  width: 37.5rem;
+  height: 10.188rem;
+  overflow: hidden;
+  font-size: var(--font-size-16);
+}
+.your-cart1 {
+  position: absolute;
+  top: 2rem;
+  left: calc(50% - 82px);
+  line-height: 140%;
+  text-transform: capitalize;
+  color: var(--primary-primary800);
+}
+.add14 {
+  width: 1.5rem;
+  position: relative;
+  height: 1.5rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.add-to-cart10 {
+  position: relative;
+  line-height: 1.5rem;
+  text-transform: capitalize;
+}
+.buttoncomp12,
+.your-cart {
+  position: absolute;
+  overflow: hidden;
+}
+.buttoncomp12 {
+  top: 51.375rem;
+  left: 10.313rem;
+  background-color: var(--primary-primary-600);
+  width: 25.688rem;
+  height: 4.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-16);
+  box-sizing: border-box;
+  gap: var(--gap-4);
+  text-align: center;
+  color: var(--Miscellaneous-Floating-Tab-Pill-Fill);
+}
+.your-cart {
+  top: calc(50% - 402px);
+  left: calc(50% - 2px);
+  background-color: var(--Miscellaneous-Floating-Tab-Pill-Fill);
+  width: 45.125rem;
+  height: 57.125rem;
+}
+.text14 {
+  position: absolute;
+  top: -1.125rem;
+  left: 37.375rem;
+  line-height: 180%;
+  text-transform: capitalize;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    var(--color-darkslategray-200);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.hgreen-line4 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--Cream);
+  height: 1.875rem;
+  overflow: hidden;
+}
+.we-offer-same-day4 {
+  position: absolute;
+  top: calc(50% - 47px);
+  left: calc(50% - 165px);
+  font-size: var(--font-size-12);
+  letter-spacing: 0.8px;
+  font-weight: 600;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    var(--color-darkslategray-200);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.search4,
+.vector-icon85 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon85 {
+  height: 72.92%;
+  width: 72.92%;
+  top: 13.75%;
+  right: 13.33%;
+  bottom: 13.33%;
+  left: 13.75%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.search4 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.header-search-icon4 {
+  width: 1.5rem;
+  position: relative;
+  height: 1.5rem;
+}
+.vector-icon86 {
+  position: absolute;
+  height: 70.83%;
+  width: 66.67%;
+  top: 14.58%;
+  right: 16.67%;
+  bottom: 14.58%;
+  left: 16.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.header-profile-icon4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-icon87 {
+  height: 76.67%;
+  width: 83.33%;
+  top: 11.67%;
+  right: 8.33%;
+  bottom: 11.67%;
+  left: 8.33%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.shopping-bag4,
+.vector-icon87,
+.vector-icon88 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon88 {
+  height: 83.33%;
+  width: 66.67%;
+  top: 8.33%;
+  right: 16.67%;
+  bottom: 8.33%;
+  left: 16.67%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.shopping-bag4 {
+  top: 0.188rem;
+  left: 0;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.div10 {
+  position: absolute;
+  top: 0;
+  left: 1.188rem;
+  line-height: 180%;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.shopping-bag-parent {
+  width: 1.5rem;
+  position: relative;
+  height: 1.688rem;
+}
+.header-search-icon-container {
+  position: absolute;
+  top: calc(50% - 1px);
+  left: calc(50% + 428px);
+  width: 11.5rem;
+  height: 2rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-24);
+  font-size: var(--font-size-10);
+}
+.floral-creations4 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 300;
+}
+.of-tullamarine4 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.5px;
+  font-family: var(--font-italianno);
+}
+.floral-creations-parent1 {
+  position: absolute;
+  top: 2.938rem;
+  left: calc(50% - 155px);
+  width: 19.313rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+  font-size: var(--font-size-24);
+  color: var(--Miscellaneous-Floating-Tab-Pill-Fill);
+}
+.icons8-menu-50-24 {
+  position: absolute;
+  top: 3.438rem;
+  left: 1.75rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: cover;
+}
+.header4 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    var(--color-darkslategray-200);
+  height: 6.875rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-16);
+  color: var(--Miscellaneous-Text-Field-BG);
+}
+.shopping-cart-filled-1140px {
+  width: 100%;
+  position: relative;
+  background-color: var(--Miscellaneous-Floating-Tab-Pill-Fill);
+  height: 64rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-20);
+  color: var(--Black);
+  font-family: var(--font-montserrat);
+}
